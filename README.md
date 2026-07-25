@@ -75,7 +75,6 @@ birthday-greeting-web/
 │   ├── preview-4.png
 │   ├── preview-5.png
 │   ├── preview-6.png
-│   └── preview-7.png
 ├── index.html
 ├── HBD.mp3
 └── README.md

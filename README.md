@@ -2,11 +2,22 @@
 
 An interactive birthday greeting website built with **HTML**, **CSS**, and **Vanilla JavaScript**. This project presents a memorable birthday experience through multiple animated scenes, complete with background music, interactive elements, and a heartfelt birthday letter.
 
-🔗 **Live Demo:** https://andra-wahyu.github.io/birthday-greeting-web/
+<p align="center">
+  <a href="https://andra-wahyu.github.io/birthday-greeting-web/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-2ea44f?style=for-the-badge" alt="Live Demo">
+  </a>
+</p>
 
 ---
 
 ## 📸 Preview
+
+<p align="center">
+  <img src="assets/preview-1.png" width="800" alt="Home">
+</p>
+
+<details>
+<summary>📷 View all screenshots</summary>
 
 ### 🏠 Home
 ![Home](assets/preview-1.png)

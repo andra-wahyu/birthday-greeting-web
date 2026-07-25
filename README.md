@@ -37,6 +37,8 @@ An interactive birthday greeting website built with **HTML**, **CSS**, and **Van
 ### 💖 Birthday Letter
 ![Letter](assets/preview-6.png)
 
+</details>
+
 ---
 
 ## ✨ Features
